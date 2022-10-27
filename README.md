@@ -1,11 +1,11 @@
 # 30 Day Map Challenge - 2022
-Creating maps around different themes throughout November (https://30daymapchallenge.com/). 
+Creating maps around different themes throughout November. See [here](https://30daymapchallenge.com/) for more information about the challenge.
 
-Check out my maps on [Twitter](https://twitter.com/_helenschmidt_).
+I will update this repository intermittently throughout November, but to see the most recent maps, check out my [Twitter](https://twitter.com/_helenschmidt_).
 
 ### 1. Points 
 ***
-![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day1_part-to-whole.jpeg?raw=true)
+<!-- ![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day1_points.jpeg?raw=true) -->
 
 See script here. 
 
