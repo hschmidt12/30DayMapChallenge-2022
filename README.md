@@ -5,9 +5,9 @@ I will update this repository intermittently throughout November, but to see the
 
 ### 1. Points 
 ***
-<!-- ![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day1_points.jpeg?raw=true) -->
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day1_points.jpeg?raw=true)
 
-See script here. 
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day1_points.R). 
 
 ### 2. Lines
 ***
