@@ -3,7 +3,7 @@
 # Helen Schmidt
 
 # set working directory
-setwd("/Volumes/Google Drive/My Drive/30DayMapChallenge-2022")
+setwd("/Volumes/GoogleDrive/My Drive/30DayMapChallenge-2022")
 
 # load packages
 library(sf)
@@ -42,9 +42,13 @@ ggplot() + geom_sf(data = base$geometry, color = colors[2], size = 0.1) +
   scale_fill_manual(values = colors[3]) +
   theme_void() + 
   annotate(geom = "text",
-           label = "Philadelphia\nRestaurant\nLicenses",
-           x = Inf, y = -Inf, hjust = 1, vjust = -1,
-           family = "montserrat", size = 4, fontface = 2, color = colors[2]) +
+           label = "Philadelphia\nRestaurants",
+           x = Inf, y = -Inf, hjust = 1.4, vjust = -3,
+           family = "montserrat", size = 3, fontface = 2, color = colors[2]) +
+  annotate(geom = "text",
+           label = "Data: OpenDataPhilly",
+           x = Inf, y = -Inf, hjust = 2, vjust = -23,
+           family = "montserrat", size = 1, fontface = 2, color = colors[3]) +
   theme(legend.position = "none",
         plot.background = element_rect(fill = colors[1], color = colors[1]),
         panel.background = element_rect(fill = colors[1], color = colors[1]),
@@ -57,4 +61,5 @@ ggplot() + geom_sf(data = base$geometry, color = colors[2], size = 0.1) +
 ggsave(filename = "./maps/day1_points.jpeg",
        width = 3,
        height = 3,
+       units = "in",
        device = "jpeg")
