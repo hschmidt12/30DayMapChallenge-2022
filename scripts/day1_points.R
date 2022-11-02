@@ -62,4 +62,5 @@ ggsave(filename = "./maps/day1_points.jpeg",
        width = 3,
        height = 3,
        units = "in",
+       dpi = 400,
        device = "jpeg")
