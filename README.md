@@ -9,5 +9,9 @@ I might update this repository intermittently throughout November, but to see th
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day1_points.R). 
 
+### 1. Lines 
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day2_lines.jpeg?raw=true)
 
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day2_lines.R).
 
