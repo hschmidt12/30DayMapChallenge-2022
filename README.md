@@ -15,3 +15,9 @@ See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day2_lines.R).
 
+### 3. Polygons 
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day3_polygons.jpeg?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day3_polygons.R).
+
