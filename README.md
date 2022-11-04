@@ -27,3 +27,9 @@ See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day4_colorfriday_green.R).
 
+### 5. Ukraine 
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day5_ukraine.jpeg?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day5_ukraine.R).
+
