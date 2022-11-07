@@ -33,3 +33,15 @@ See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day5_ukraine.R).
 
+### 6. Network 
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day6_network.gif?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day6_network.R).
+
+### 7. Raster 
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day7_raster.jpeg?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day7_raster.R).
+
