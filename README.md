@@ -45,3 +45,8 @@ See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day7_raster.R).
 
+### 8. Open Street Map 
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day8_openstreetmap.jpeg?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day8_openstreetmap.R).
