@@ -97,5 +97,5 @@ ggsave(filename = "./maps/day8_openstreetmap.jpeg",
        width = 10,
        height = 8,
        units = "in",
-       dpi = 1000,
+       dpi = 800,
        device = "jpeg")
