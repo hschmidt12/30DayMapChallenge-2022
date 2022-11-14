@@ -62,3 +62,9 @@ See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main
 ![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day11_colorfriday_red.gif?raw=true)
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day11_colorfriday_red.R).
+
+### 14. Hexagons
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day14_hexagons.jpeg?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day14_hexagons.R).
