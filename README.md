@@ -68,3 +68,9 @@ See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main
 ![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day14_hexagons.jpeg?raw=true)
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day14_hexagons.R).
+
+### 15. Food/Drink
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day15_food-drink.jpeg?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day15_food-drink.R).
