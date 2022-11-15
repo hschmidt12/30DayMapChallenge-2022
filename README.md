@@ -74,3 +74,9 @@ See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main
 ![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day15_food-drink.jpeg?raw=true)
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day15_food-drink.R).
+
+### 16. Minimal
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day16_minimal.jpeg?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day16_minimal.R).
