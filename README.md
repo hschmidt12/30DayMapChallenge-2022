@@ -86,3 +86,21 @@ See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main
 ![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day18_colorfriday_blue.jpeg?raw=true)
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day18_colorfriday_blue.R).
+
+### 23. Movement
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day23_movement.jpeg?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day23_movement.R).
+
+### 25. Color Friday - Two Colors
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day25_colorfriday_twocolors.jpeg?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day25_colorfriday_twocolors.R).
+
+### 26. Island
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day26_island.png?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day26_island.R).
