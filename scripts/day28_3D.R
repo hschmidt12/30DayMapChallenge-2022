@@ -21,6 +21,6 @@ palette <- colorRampPalette(c(colors[5], colors[4], colors[3], colors[2]))
 palette <- palette(25)
 
 # load fonts for title
-font_add_google("Signika Negative", "signika")
+font_add_google("Bellota", "bellota")
 # automatically use showtext when needed
 showtext_auto()
