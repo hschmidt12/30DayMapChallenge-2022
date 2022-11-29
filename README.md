@@ -110,3 +110,10 @@ See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main
 ![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day27_music.jpeg?raw=true)
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day27_music.R).
+
+### 28. 3D
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day28_3D.png?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day28_3D.R).
+
