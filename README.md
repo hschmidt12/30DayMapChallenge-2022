@@ -1,7 +1,7 @@
 # 30 Day Map Challenge - 2022
 Creating maps throughout November, 2022. See [here](https://30daymapchallenge.com/) for more information about the challenge.
 
-I might update this repository intermittently throughout November, but to see the most recent maps, check out my progress on [Twitter](https://twitter.com/_helenschmidt_). All maps will be included here at the end of the month.
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/final.pdf?raw=true)
 
 ### 1. Points 
 ***
@@ -116,4 +116,10 @@ See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main
 ![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day28_3D.png?raw=true)
 
 See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day28_3D.R).
+
+### 30. Remix
+***
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/day30_remix.jpeg?raw=true)
+
+See script [here](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/scripts/day30_remix.R).
 
