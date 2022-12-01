@@ -1,7 +1,7 @@
 # 30 Day Map Challenge - 2022
 Creating maps throughout November, 2022. See [here](https://30daymapchallenge.com/) for more information about the challenge.
 
-![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/final.jpeg?raw=true)
+![](https://github.com/hschmidt12/30DayMapChallenge-2022/blob/main/maps/final.jpg?raw=true)
 
 ### 1. Points 
 ***
